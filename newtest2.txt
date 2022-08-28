@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 308D-C86D
+
+ Directory of C:\Users\HP PC\Documents\Curacel
+
+08/28/2022  05:24 PM    <DIR>          .
+08/28/2022  05:24 PM    <DIR>          ..
+08/28/2022  05:24 PM                 0 newtest2.txt
+08/28/2022  04:49 PM               360 newtext1.txt
+               2 File(s)            360 bytes
+               2 Dir(s)  160,707,809,280 bytes free
